@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global CO2 Emissions Explorer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="./images/logo.png" alt="GitHub" width="20" style="vertical-align:middle;">
+    <link rel="icon" type="image/x-icon" sizes="32x32" href="./images/logo.png" />
+    <link rel="icon" href="./images/logo.png" type="image/<generated>" sizes="<generated>" />
+    <link rel="apple-touch-icon" href="./images/logo.png" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Global CO2 Emissions Explorer" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3-cloud@1.2.5/build/d3.layout.cloud.min.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Global CO2 Emissions Explorer</h1>
+        <p>Visualizing carbon dioxide emissions across countries</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#numerical">Emissions Trends</a></li>
+            <li><a href="#spatial">Geographic Patterns</a></li>
+            <li><a href="#textual">Country Names</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section id="overview">
+            <h2>Project Overview</h2>
+            <p>This interactive dashboard explores global CO2 emissions data, helping users understand disparities in per capita emissions and their geographic distribution. The visualizations are designed for the general public, policymakers, and educators.</p>
+            <div class="key-findings">
+                <div class="finding-card">
+                    <h3>High Emitters</h3>
+                    <p>Identify countries with the highest per capita emissions.</p>
+                </div>
+                <div class="finding-card">
+                    <h3>Regional Patterns</h3>
+                    <p>Explore how emissions vary by region.</p>
+                </div>
+                <div class="finding-card">
+                    <h3>Global Context</h3>
+                    <p>Understand the scale of emissions worldwide.</p>
+                </div>
+            </div>
+        </section>
+        
+        <section id="numerical" class="visualization-section">
+            <h2>Numerical Data: CO2 Emissions per Capita (2020)</h2>
+            <div class="controls">
+                <label for="region-filter">Filter by Region:</label>
+                <select id="region-filter">
+                    <option value="All">All</option>
+                    <option value="Asia">Asia</option>
+                    <option value="Americas">Americas</option>
+                    <option value="Europe">Europe</option>
+                    <option value="Africa">Africa</option>
+                </select>
+                <button id="sort-asc">Sort Ascending</button>
+                <button id="sort-desc">Sort Descending</button>
+            </div>
+            <div class="chart-container" id="barchart"></div>
+            <div class="analysis">
+                <h3>Analysis</h3>
+                <p>This bar chart shows CO2 emissions per capita for selected countries, with interactive filtering by region and sorting options. High-income countries like Qatar and Kuwait lead in emissions, while developing nations like Nigeria have significantly lower per capita emissions, highlighting global disparities.</p>
+            </div>
+        </section>
+        
+        <section id="spatial" class="visualization-section">
+            <h2>Spatial Data: Geographic Distribution of CO2 Emissions</h2>
+            <div class="controls">
+                <label for="emission-slider">Emission Range (tons/capita):</label>
+                <input type="range" id="emission-slider" min="0" max="40" value="0">
+                <span id="slider-value">0</span>
+            </div>
+            <div class="chart-container" id="map"></div>
+            <div class="analysis">
+                <h3>Analysis</h3>
+                <p>This interactive map visualizes CO2 emissions by country, with circles colored by emission intensity. Users can zoom, pan, and filter by emission ranges. The map reveals that high emitters are concentrated in the Middle East and North America, while Africa shows lower emissions.</p>
+            </div>
+        </section>
+        
+        <section id="textual" class="visualization-section">
+            <h2>Textual Data: Country Names by Emissions</h2>
+            <div class="controls">
+                <label for="search-input">Search Country:</label>
+                <input type="text" id="search-input" placeholder="Enter country name">
+            </div>
+            <div class="chart-container" id="wordcloud"></div>
+            <div class="analysis">
+                <h3>Analysis</h3>
+                <p>This word cloud displays country names, with font sizes proportional to their CO2 emissions per capita. Larger names indicate higher emissions. Users can search for countries and click names to highlight them in other visualizations, providing an interactive way to explore key contributors to global emissions.</p>
+            </div>
+        </section>
+        
+        <section id="about">
+            <h2>About This Project</h2>
+            <p>This visualization project was created to demonstrate effective data communication principles for HCD:101-00050 (Spring 2025).</p>
+            <ul>
+                <li><strong>Audience:</strong> General public, policymakers, educators, and students interested in climate change.</li>
+                <li><strong>Key Message:</strong> CO2 emissions vary significantly by country and region, with implications for global climate policy.</li>
+                <li><strong>Data Source:</strong> Sample data inspired by Our World in Data.</li>
+            </ul>
+            <h3>Design Considerations</h3>
+            <p>Following best practices, and the visualizations emphasize:</p>
+            <ul>
+                <li>Clear labeling and analysis sections for context.</li>
+                <li>Appropriate chart types: bar charts for numerical data, maps for spatial data, and word clouds for textual data.</li>
+                <li>Interactive elements for exploration across all visualizations.</li>
+                <li>Responsive design for multiple devices.</li>
+                <li>Colorblind-friendly color schemes with vibrant, perceptually uniform colors.</li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>
+            <a href="https://www.facebook.com/kyaw.z.htet.98284" target="_blank" aria-label="Facebook" class="social-icon">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="20" style="vertical-align:middle;">
+            </a>
+            <a href="https://www.instagram.com/kyawzinhtett/" target="_blank" aria-label="Instagram" class="social-icon">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="20" style="vertical-align:middle;">
+            </a>
+            <a href="https://x.com/KyawZinnHtet" target="_blank" aria-label="Twitter" class="social-icon">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="20" style="vertical-align:middle;">
+            </a>
+            <a href="https://www.linkedin.com/in/kyaw-zin-htet-2755b024a/" target="_blank" aria-label="LinkedIn" class="social-icon">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" style="vertical-align:middle;">
+            </a>
+            <a href="https://github.com/ryan-100" target="_blank" aria-label="GitHub" class="social-icon">
+                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" style="vertical-align:middle;">
+            </a>
+        </p>
+        <p class="footer-text">
+            © Kyaw Zin Htet | HCD:101-00050 (Spring 2025) | CMKL University
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

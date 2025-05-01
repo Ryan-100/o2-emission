@@ -1,0 +1,1355 @@
+{
+    "data": [
+        {
+            "country": "Afghanistan",
+            "emissions": 0.3,
+            "lat": 33.93911,
+            "lon": 67.709953,
+            "region": "Asia"
+        },
+        {
+            "country": "Albania",
+            "emissions": 1.8,
+            "lat": 41.153332,
+            "lon": 20.168331,
+            "region": "Europe"
+        },
+        {
+            "country": "Algeria",
+            "emissions": 3.7,
+            "lat": 28.033886,
+            "lon": 1.659626,
+            "region": "Africa"
+        },
+        {
+            "country": "Andorra",
+            "emissions": 5.8,
+            "lat": 42.546245,
+            "lon": 1.601554,
+            "region": "Europe"
+        },
+        {
+            "country": "Angola",
+            "emissions": 1.1,
+            "lat": -11.202692,
+            "lon": 17.873887,
+            "region": "Africa"
+        },
+        {
+            "country": "Antigua and Barbuda",
+            "emissions": 5.4,
+            "lat": 17.060816,
+            "lon": -61.796428,
+            "region": "Americas"
+        },
+        {
+            "country": "Argentina",
+            "emissions": 4.6,
+            "lat": -38.416097,
+            "lon": -63.616672,
+            "region": "Americas"
+        },
+        {
+            "country": "Armenia",
+            "emissions": 1.9,
+            "lat": 40.069099,
+            "lon": 45.038189,
+            "region": "Asia"
+        },
+        {
+            "country": "Australia",
+            "emissions": 15.4,
+            "lat": -25.274398,
+            "lon": 133.775136,
+            "region": "Oceania"
+        },
+        {
+            "country": "Austria",
+            "emissions": 7.2,
+            "lat": 47.516231,
+            "lon": 14.550072,
+            "region": "Europe"
+        },
+        {
+            "country": "Azerbaijan",
+            "emissions": 3.5,
+            "lat": 40.143105,
+            "lon": 47.576927,
+            "region": "Asia"
+        },
+        {
+            "country": "Bahamas",
+            "emissions": 6.1,
+            "lat": 25.03428,
+            "lon": -77.39628,
+            "region": "Americas"
+        },
+        {
+            "country": "Bahrain",
+            "emissions": 19.8,
+            "lat": 25.930414,
+            "lon": 50.637772,
+            "region": "Asia"
+        },
+        {
+            "country": "Bangladesh",
+            "emissions": 0.5,
+            "lat": 23.684994,
+            "lon": 90.356331,
+            "region": "Asia"
+        },
+        {
+            "country": "Barbados",
+            "emissions": 4.9,
+            "lat": 13.193887,
+            "lon": -59.543198,
+            "region": "Americas"
+        },
+        {
+            "country": "Belarus",
+            "emissions": 6.3,
+            "lat": 53.709807,
+            "lon": 27.953389,
+            "region": "Europe"
+        },
+        {
+            "country": "Belgium",
+            "emissions": 8.4,
+            "lat": 50.503887,
+            "lon": 4.469936,
+            "region": "Europe"
+        },
+        {
+            "country": "Belize",
+            "emissions": 1.4,
+            "lat": 17.189877,
+            "lon": -88.49765,
+            "region": "Americas"
+        },
+        {
+            "country": "Benin",
+            "emissions": 0.6,
+            "lat": 9.30769,
+            "lon": 2.315834,
+            "region": "Africa"
+        },
+        {
+            "country": "Bhutan",
+            "emissions": 0.8,
+            "lat": 27.514162,
+            "lon": 90.433601,
+            "region": "Asia"
+        },
+        {
+            "country": "Bolivia",
+            "emissions": 1.9,
+            "lat": -16.290154,
+            "lon": -63.588653,
+            "region": "Americas"
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "emissions": 6.8,
+            "lat": 43.915886,
+            "lon": 17.679076,
+            "region": "Europe"
+        },
+        {
+            "country": "Botswana",
+            "emissions": 2.8,
+            "lat": -22.328474,
+            "lon": 24.684866,
+            "region": "Africa"
+        },
+        {
+            "country": "Brazil",
+            "emissions": 2.2,
+            "lat": -14.235004,
+            "lon": -51.92528,
+            "region": "Americas"
+        },
+        {
+            "country": "Brunei",
+            "emissions": 15.2,
+            "lat": 4.535277,
+            "lon": 114.727669,
+            "region": "Asia"
+        },
+        {
+            "country": "Bulgaria",
+            "emissions": 5.9,
+            "lat": 42.733883,
+            "lon": 25.48583,
+            "region": "Europe"
+        },
+        {
+            "country": "Burkina Faso",
+            "emissions": 0.2,
+            "lat": 12.238333,
+            "lon": -1.561593,
+            "region": "Africa"
+        },
+        {
+            "country": "Burundi",
+            "emissions": 0.1,
+            "lat": -3.373056,
+            "lon": 29.918886,
+            "region": "Africa"
+        },
+        {
+            "country": "Cabo Verde",
+            "emissions": 0.7,
+            "lat": 16.002082,
+            "lon": -24.013197,
+            "region": "Africa"
+        },
+        {
+            "country": "Cambodia",
+            "emissions": 0.4,
+            "lat": 12.565679,
+            "lon": 104.990963,
+            "region": "Asia"
+        },
+        {
+            "country": "Cameroon",
+            "emissions": 0.3,
+            "lat": 7.369722,
+            "lon": 12.354722,
+            "region": "Africa"
+        },
+        {
+            "country": "Canada",
+            "emissions": 15.1,
+            "lat": 56.130366,
+            "lon": -106.346771,
+            "region": "Americas"
+        },
+        {
+            "country": "Central African Republic",
+            "emissions": 0.1,
+            "lat": 6.611111,
+            "lon": 20.939444,
+            "region": "Africa"
+        },
+        {
+            "country": "Chad",
+            "emissions": 0.1,
+            "lat": 15.454166,
+            "lon": 18.732207,
+            "region": "Africa"
+        },
+        {
+            "country": "Chile",
+            "emissions": 4.7,
+            "lat": -35.675147,
+            "lon": -71.542969,
+            "region": "Americas"
+        },
+        {
+            "country": "China",
+            "emissions": 7.4,
+            "lat": 35.86166,
+            "lon": 104.195397,
+            "region": "Asia"
+        },
+        {
+            "country": "Colombia",
+            "emissions": 1.6,
+            "lat": 4.570868,
+            "lon": -74.297333,
+            "region": "Americas"
+        },
+        {
+            "country": "Comoros",
+            "emissions": 0.2,
+            "lat": -11.875001,
+            "lon": 43.872219,
+            "region": "Africa"
+        },
+        {
+            "country": "Congo",
+            "emissions": 0.3,
+            "lat": -0.228021,
+            "lon": 15.827659,
+            "region": "Africa"
+        },
+        {
+            "country": "Costa Rica",
+            "emissions": 1.7,
+            "lat": 9.748917,
+            "lon": -83.753428,
+            "region": "Americas"
+        },
+        {
+            "country": "Croatia",
+            "emissions": 4.2,
+            "lat": 45.1,
+            "lon": 15.2,
+            "region": "Europe"
+        },
+        {
+            "country": "Cuba",
+            "emissions": 2.8,
+            "lat": 21.521757,
+            "lon": -77.781167,
+            "region": "Americas"
+        },
+        {
+            "country": "Cyprus",
+            "emissions": 5.9,
+            "lat": 35.126413,
+            "lon": 33.429859,
+            "region": "Europe"
+        },
+        {
+            "country": "Czech Republic",
+            "emissions": 9.7,
+            "lat": 49.817492,
+            "lon": 15.472962,
+            "region": "Europe"
+        },
+        {
+            "country": "Denmark",
+            "emissions": 5.8,
+            "lat": 56.26392,
+            "lon": 9.501785,
+            "region": "Europe"
+        },
+        {
+            "country": "Djibouti",
+            "emissions": 0.4,
+            "lat": 11.825138,
+            "lon": 42.590275,
+            "region": "Africa"
+        },
+        {
+            "country": "Dominica",
+            "emissions": 1.9,
+            "lat": 15.414999,
+            "lon": -61.370976,
+            "region": "Americas"
+        },
+        {
+            "country": "Dominican Republic",
+            "emissions": 2.1,
+            "lat": 18.735693,
+            "lon": -70.162651,
+            "region": "Americas"
+        },
+        {
+            "country": "Ecuador",
+            "emissions": 2.3,
+            "lat": -1.831239,
+            "lon": -78.183406,
+            "region": "Americas"
+        },
+        {
+            "country": "Egypt",
+            "emissions": 2.5,
+            "lat": 26.820553,
+            "lon": 30.802498,
+            "region": "Africa"
+        },
+        {
+            "country": "El Salvador",
+            "emissions": 1.1,
+            "lat": 13.794185,
+            "lon": -88.89653,
+            "region": "Americas"
+        },
+        {
+            "country": "Equatorial Guinea",
+            "emissions": 2.4,
+            "lat": 1.650801,
+            "lon": 10.267895,
+            "region": "Africa"
+        },
+        {
+            "country": "Eritrea",
+            "emissions": 0.1,
+            "lat": 15.179384,
+            "lon": 39.782334,
+            "region": "Africa"
+        },
+        {
+            "country": "Estonia",
+            "emissions": 12.3,
+            "lat": 58.595272,
+            "lon": 25.013607,
+            "region": "Europe"
+        },
+        {
+            "country": "Eswatini",
+            "emissions": 0.9,
+            "lat": -26.522503,
+            "lon": 31.465866,
+            "region": "Africa"
+        },
+        {
+            "country": "Ethiopia",
+            "emissions": 0.1,
+            "lat": 9.145,
+            "lon": 40.489673,
+            "region": "Africa"
+        },
+        {
+            "country": "Fiji",
+            "emissions": 1.3,
+            "lat": -16.578193,
+            "lon": 179.414413,
+            "region": "Oceania"
+        },
+        {
+            "country": "Finland",
+            "emissions": 8.3,
+            "lat": 61.92411,
+            "lon": 25.748151,
+            "region": "Europe"
+        },
+        {
+            "country": "France",
+            "emissions": 4.6,
+            "lat": 46.227638,
+            "lon": 2.213749,
+            "region": "Europe"
+        },
+        {
+            "country": "Gabon",
+            "emissions": 2.5,
+            "lat": -0.803689,
+            "lon": 11.609444,
+            "region": "Africa"
+        },
+        {
+            "country": "Gambia",
+            "emissions": 0.2,
+            "lat": 13.443182,
+            "lon": -15.310139,
+            "region": "Africa"
+        },
+        {
+            "country": "Georgia",
+            "emissions": 2.7,
+            "lat": 42.315407,
+            "lon": 43.356892,
+            "region": "Asia"
+        },
+        {
+            "country": "Germany",
+            "emissions": 8.4,
+            "lat": 51.165691,
+            "lon": 10.451526,
+            "region": "Europe"
+        },
+        {
+            "country": "Ghana",
+            "emissions": 0.5,
+            "lat": 7.946527,
+            "lon": -1.023194,
+            "region": "Africa"
+        },
+        {
+            "country": "Greece",
+            "emissions": 5.9,
+            "lat": 39.074208,
+            "lon": 21.824312,
+            "region": "Europe"
+        },
+        {
+            "country": "Grenada",
+            "emissions": 2.1,
+            "lat": 12.262776,
+            "lon": -61.604171,
+            "region": "Americas"
+        },
+        {
+            "country": "Guatemala",
+            "emissions": 1.1,
+            "lat": 15.783471,
+            "lon": -90.230759,
+            "region": "Americas"
+        },
+        {
+            "country": "Guinea",
+            "emissions": 0.2,
+            "lat": 9.945587,
+            "lon": -9.696645,
+            "region": "Africa"
+        },
+        {
+            "country": "Guinea-Bissau",
+            "emissions": 0.2,
+            "lat": 11.803749,
+            "lon": -15.180413,
+            "region": "Africa"
+        },
+        {
+            "country": "Guyana",
+            "emissions": 2.4,
+            "lat": 4.860416,
+            "lon": -58.93018,
+            "region": "Americas"
+        },
+        {
+            "country": "Haiti",
+            "emissions": 0.3,
+            "lat": 18.971187,
+            "lon": -72.285215,
+            "region": "Americas"
+        },
+        {
+            "country": "Honduras",
+            "emissions": 1.1,
+            "lat": 15.199999,
+            "lon": -86.241905,
+            "region": "Americas"
+        },
+        {
+            "country": "Hungary",
+            "emissions": 5.1,
+            "lat": 47.162494,
+            "lon": 19.503304,
+            "region": "Europe"
+        },
+        {
+            "country": "Iceland",
+            "emissions": 11.5,
+            "lat": 64.963051,
+            "lon": -19.020835,
+            "region": "Europe"
+        },
+        {
+            "country": "India",
+            "emissions": 1.9,
+            "lat": 20.593684,
+            "lon": 78.96288,
+            "region": "Asia"
+        },
+        {
+            "country": "Indonesia",
+            "emissions": 2.0,
+            "lat": -0.789275,
+            "lon": 113.921327,
+            "region": "Asia"
+        },
+        {
+            "country": "Iran",
+            "emissions": 7.3,
+            "lat": 32.427908,
+            "lon": 53.688046,
+            "region": "Asia"
+        },
+        {
+            "country": "Iraq",
+            "emissions": 4.6,
+            "lat": 33.223191,
+            "lon": 43.679291,
+            "region": "Asia"
+        },
+        {
+            "country": "Ireland",
+            "emissions": 7.7,
+            "lat": 53.41291,
+            "lon": -8.24389,
+            "region": "Europe"
+        },
+        {
+            "country": "Israel",
+            "emissions": 7.6,
+            "lat": 31.046051,
+            "lon": 34.851612,
+            "region": "Asia"
+        },
+        {
+            "country": "Italy",
+            "emissions": 5.5,
+            "lat": 41.87194,
+            "lon": 12.56738,
+            "region": "Europe"
+        },
+        {
+            "country": "Jamaica",
+            "emissions": 2.8,
+            "lat": 18.109581,
+            "lon": -77.297508,
+            "region": "Americas"
+        },
+        {
+            "country": "Japan",
+            "emissions": 8.5,
+            "lat": 36.204824,
+            "lon": 138.252924,
+            "region": "Asia"
+        },
+        {
+            "country": "Jordan",
+            "emissions": 2.5,
+            "lat": 30.585164,
+            "lon": 36.238414,
+            "region": "Asia"
+        },
+        {
+            "country": "Kazakhstan",
+            "emissions": 15.2,
+            "lat": 48.019573,
+            "lon": 66.923684,
+            "region": "Asia"
+        },
+        {
+            "country": "Kenya",
+            "emissions": 0.3,
+            "lat": -0.023559,
+            "lon": 37.906193,
+            "region": "Africa"
+        },
+        {
+            "country": "Kiribati",
+            "emissions": 0.6,
+            "lat": -3.370417,
+            "lon": -168.734039,
+            "region": "Oceania"
+        },
+        {
+            "country": "Kuwait",
+            "emissions": 25.6,
+            "lat": 29.31166,
+            "lon": 47.481766,
+            "region": "Asia"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "emissions": 1.5,
+            "lat": 41.20438,
+            "lon": 74.766098,
+            "region": "Asia"
+        },
+        {
+            "country": "Laos",
+            "emissions": 0.4,
+            "lat": 19.85627,
+            "lon": 102.495496,
+            "region": "Asia"
+        },
+        {
+            "country": "Latvia",
+            "emissions": 3.8,
+            "lat": 56.879635,
+            "lon": 24.603189,
+            "region": "Europe"
+        },
+        {
+            "country": "Lebanon",
+            "emissions": 4.1,
+            "lat": 33.854721,
+            "lon": 35.862285,
+            "region": "Asia"
+        },
+        {
+            "country": "Lesotho",
+            "emissions": 0.3,
+            "lat": -29.609988,
+            "lon": 28.233608,
+            "region": "Africa"
+        },
+        {
+            "country": "Liberia",
+            "emissions": 0.2,
+            "lat": 6.428055,
+            "lon": -9.429499,
+            "region": "Africa"
+        },
+        {
+            "country": "Libya",
+            "emissions": 6.8,
+            "lat": 26.3351,
+            "lon": 17.228331,
+            "region": "Africa"
+        },
+        {
+            "country": "Liechtenstein",
+            "emissions": 3.9,
+            "lat": 47.166,
+            "lon": 9.555373,
+            "region": "Europe"
+        },
+        {
+            "country": "Lithuania",
+            "emissions": 4.2,
+            "lat": 55.169438,
+            "lon": 23.881275,
+            "region": "Europe"
+        },
+        {
+            "country": "Luxembourg",
+            "emissions": 15.8,
+            "lat": 49.815273,
+            "lon": 6.129583,
+            "region": "Europe"
+        },
+        {
+            "country": "Madagascar",
+            "emissions": 0.1,
+            "lat": -18.766947,
+            "lon": 46.869107,
+            "region": "Africa"
+        },
+        {
+            "country": "Malawi",
+            "emissions": 0.1,
+            "lat": -13.254308,
+            "lon": 34.301525,
+            "region": "Africa"
+        },
+        {
+            "country": "Malaysia",
+            "emissions": 7.7,
+            "lat": 4.210484,
+            "lon": 101.975766,
+            "region": "Asia"
+        },
+        {
+            "country": "Maldives",
+            "emissions": 3.2,
+            "lat": 3.202778,
+            "lon": 73.22068,
+            "region": "Asia"
+        },
+        {
+            "country": "Mali",
+            "emissions": 0.1,
+            "lat": 17.570692,
+            "lon": -3.996166,
+            "region": "Africa"
+        },
+        {
+            "country": "Malta",
+            "emissions": 5.2,
+            "lat": 35.937496,
+            "lon": 14.375416,
+            "region": "Europe"
+        },
+        {
+            "country": "Marshall Islands",
+            "emissions": 1.8,
+            "lat": 7.131474,
+            "lon": 171.184478,
+            "region": "Oceania"
+        },
+        {
+            "country": "Mauritania",
+            "emissions": 0.4,
+            "lat": 21.00789,
+            "lon": -10.940835,
+            "region": "Africa"
+        },
+        {
+            "country": "Mauritius",
+            "emissions": 3.1,
+            "lat": -20.348404,
+            "lon": 57.552152,
+            "region": "Africa"
+        },
+        {
+            "country": "Mexico",
+            "emissions": 3.6,
+            "lat": 23.634501,
+            "lon": -102.552784,
+            "region": "Americas"
+        },
+        {
+            "country": "Micronesia",
+            "emissions": 0.8,
+            "lat": 7.425554,
+            "lon": 150.550812,
+            "region": "Oceania"
+        },
+        {
+            "country": "Moldova",
+            "emissions": 1.9,
+            "lat": 47.411631,
+            "lon": 28.369885,
+            "region": "Europe"
+        },
+        {
+            "country": "Monaco",
+            "emissions": 4.2,
+            "lat": 43.738418,
+            "lon": 7.424616,
+            "region": "Europe"
+        },
+        {
+            "country": "Mongolia",
+            "emissions": 6.8,
+            "lat": 46.862496,
+            "lon": 103.846656,
+            "region": "Asia"
+        },
+        {
+            "country": "Montenegro",
+            "emissions": 3.9,
+            "lat": 42.708678,
+            "lon": 19.37439,
+            "region": "Europe"
+        },
+        {
+            "country": "Morocco",
+            "emissions": 1.8,
+            "lat": 31.791702,
+            "lon": -7.09262,
+            "region": "Africa"
+        },
+        {
+            "country": "Mozambique",
+            "emissions": 0.2,
+            "lat": -18.665695,
+            "lon": 35.529562,
+            "region": "Africa"
+        },
+        {
+            "country": "Myanmar",
+            "emissions": 0.3,
+            "lat": 21.913965,
+            "lon": 95.956223,
+            "region": "Asia"
+        },
+        {
+            "country": "Namibia",
+            "emissions": 1.4,
+            "lat": -22.95764,
+            "lon": 18.49041,
+            "region": "Africa"
+        },
+        {
+            "country": "Nauru",
+            "emissions": 2.1,
+            "lat": -0.522778,
+            "lon": 166.931503,
+            "region": "Oceania"
+        },
+        {
+            "country": "Nepal",
+            "emissions": 0.2,
+            "lat": 28.394857,
+            "lon": 84.124008,
+            "region": "Asia"
+        },
+        {
+            "country": "Netherlands",
+            "emissions": 9.6,
+            "lat": 52.132633,
+            "lon": 5.291266,
+            "region": "Europe"
+        },
+        {
+            "country": "New Zealand",
+            "emissions": 7.7,
+            "lat": -40.900557,
+            "lon": 174.885971,
+            "region": "Oceania"
+        },
+        {
+            "country": "Nicaragua",
+            "emissions": 0.8,
+            "lat": 12.865416,
+            "lon": -85.207229,
+            "region": "Americas"
+        },
+        {
+            "country": "Niger",
+            "emissions": 0.1,
+            "lat": 17.607789,
+            "lon": 8.081666,
+            "region": "Africa"
+        },
+        {
+            "country": "Nigeria",
+            "emissions": 0.6,
+            "lat": 9.081999,
+            "lon": 8.675277,
+            "region": "Africa"
+        },
+        {
+            "country": "North Korea",
+            "emissions": 2.8,
+            "lat": 40.339852,
+            "lon": 127.510093,
+            "region": "Asia"
+        },
+        {
+            "country": "North Macedonia",
+            "emissions": 3.5,
+            "lat": 41.608635,
+            "lon": 21.745275,
+            "region": "Europe"
+        },
+        {
+            "country": "Norway",
+            "emissions": 8.1,
+            "lat": 60.472024,
+            "lon": 8.468946,
+            "region": "Europe"
+        },
+        {
+            "country": "Oman",
+            "emissions": 15.8,
+            "lat": 21.512583,
+            "lon": 55.923255,
+            "region": "Asia"
+        },
+        {
+            "country": "Pakistan",
+            "emissions": 0.9,
+            "lat": 30.375321,
+            "lon": 69.345116,
+            "region": "Asia"
+        },
+        {
+            "country": "Palau",
+            "emissions": 12.3,
+            "lat": 7.51498,
+            "lon": 134.58252,
+            "region": "Oceania"
+        },
+        {
+            "country": "Panama",
+            "emissions": 2.4,
+            "lat": 8.537981,
+            "lon": -80.782127,
+            "region": "Americas"
+        },
+        {
+            "country": "Papua New Guinea",
+            "emissions": 0.7,
+            "lat": -6.314993,
+            "lon": 143.95555,
+            "region": "Oceania"
+        },
+        {
+            "country": "Paraguay",
+            "emissions": 0.8,
+            "lat": -23.442503,
+            "lon": -58.443832,
+            "region": "Americas"
+        },
+        {
+            "country": "Peru",
+            "emissions": 1.9,
+            "lat": -9.189967,
+            "lon": -75.015152,
+            "region": "Americas"
+        },
+        {
+            "country": "Philippines",
+            "emissions": 1.2,
+            "lat": 12.879721,
+            "lon": 121.774017,
+            "region": "Asia"
+        },
+        {
+            "country": "Poland",
+            "emissions": 7.9,
+            "lat": 51.919438,
+            "lon": 19.145136,
+            "region": "Europe"
+        },
+        {
+            "country": "Portugal",
+            "emissions": 4.8,
+            "lat": 39.399872,
+            "lon": -8.224454,
+            "region": "Europe"
+        },
+        {
+            "country": "Qatar",
+            "emissions": 37.0,
+            "lat": 25.354826,
+            "lon": 51.183884,
+            "region": "Asia"
+        },
+        {
+            "country": "Romania",
+            "emissions": 3.9,
+            "lat": 45.943161,
+            "lon": 24.96676,
+            "region": "Europe"
+        },
+        {
+            "country": "Russia",
+            "emissions": 11.5,
+            "lat": 61.52401,
+            "lon": 105.318756,
+            "region": "Europe"
+        },
+        {
+            "country": "Rwanda",
+            "emissions": 0.1,
+            "lat": -1.940278,
+            "lon": 29.873888,
+            "region": "Africa"
+        },
+        {
+            "country": "Saint Kitts and Nevis",
+            "emissions": 4.5,
+            "lat": 17.357822,
+            "lon": -62.782998,
+            "region": "Americas"
+        },
+        {
+            "country": "Saint Lucia",
+            "emissions": 2.1,
+            "lat": 13.909444,
+            "lon": -60.978893,
+            "region": "Americas"
+        },
+        {
+            "country": "Saint Vincent and the Grenadines",
+            "emissions": 1.8,
+            "lat": 12.984305,
+            "lon": -61.287228,
+            "region": "Americas"
+        },
+        {
+            "country": "Samoa",
+            "emissions": 0.7,
+            "lat": -13.759029,
+            "lon": -172.104629,
+            "region": "Oceania"
+        },
+        {
+            "country": "San Marino",
+            "emissions": 5.2,
+            "lat": 43.94236,
+            "lon": 12.457777,
+            "region": "Europe"
+        },
+        {
+            "country": "Sao Tome and Principe",
+            "emissions": 0.4,
+            "lat": 0.18636,
+            "lon": 6.613081,
+            "region": "Africa"
+        },
+        {
+            "country": "Saudi Arabia",
+            "emissions": 19.4,
+            "lat": 23.885942,
+            "lon": 45.079162,
+            "region": "Asia"
+        },
+        {
+            "country": "Senegal",
+            "emissions": 0.5,
+            "lat": 14.497401,
+            "lon": -14.452362,
+            "region": "Africa"
+        },
+        {
+            "country": "Serbia",
+            "emissions": 6.2,
+            "lat": 44.016521,
+            "lon": 21.005859,
+            "region": "Europe"
+        },
+        {
+            "country": "Seychelles",
+            "emissions": 5.8,
+            "lat": -4.679574,
+            "lon": 55.491977,
+            "region": "Africa"
+        },
+        {
+            "country": "Sierra Leone",
+            "emissions": 0.2,
+            "lat": 8.460555,
+            "lon": -11.779889,
+            "region": "Africa"
+        },
+        {
+            "country": "Singapore",
+            "emissions": 8.0,
+            "lat": 1.352083,
+            "lon": 103.819836,
+            "region": "Asia"
+        },
+        {
+            "country": "Slovakia",
+            "emissions": 5.8,
+            "lat": 48.669026,
+            "lon": 19.699024,
+            "region": "Europe"
+        },
+        {
+            "country": "Slovenia",
+            "emissions": 7.2,
+            "lat": 46.151241,
+            "lon": 14.995463,
+            "region": "Europe"
+        },
+        {
+            "country": "Solomon Islands",
+            "emissions": 0.4,
+            "lat": -9.64571,
+            "lon": 160.156194,
+            "region": "Oceania"
+        },
+        {
+            "country": "Somalia",
+            "emissions": 0.1,
+            "lat": 5.152149,
+            "lon": 46.199616,
+            "region": "Africa"
+        },
+        {
+            "country": "South Africa",
+            "emissions": 7.4,
+            "lat": -30.559482,
+            "lon": 22.937506,
+            "region": "Africa"
+        },
+        {
+            "country": "South Korea",
+            "emissions": 11.5,
+            "lat": 35.907757,
+            "lon": 127.766922,
+            "region": "Asia"
+        },
+        {
+            "country": "South Sudan",
+            "emissions": 0.1,
+            "lat": 6.876991,
+            "lon": 31.306978,
+            "region": "Africa"
+        },
+        {
+            "country": "Spain",
+            "emissions": 5.1,
+            "lat": 40.463667,
+            "lon": -3.74922,
+            "region": "Europe"
+        },
+        {
+            "country": "Sri Lanka",
+            "emissions": 0.9,
+            "lat": 7.873054,
+            "lon": 80.771797,
+            "region": "Asia"
+        },
+        {
+            "country": "Sudan",
+            "emissions": 0.4,
+            "lat": 12.862807,
+            "lon": 30.217636,
+            "region": "Africa"
+        },
+        {
+            "country": "Suriname",
+            "emissions": 3.8,
+            "lat": 3.919305,
+            "lon": -56.027783,
+            "region": "Americas"
+        },
+        {
+            "country": "Sweden",
+            "emissions": 4.2,
+            "lat": 60.128161,
+            "lon": 18.643501,
+            "region": "Europe"
+        },
+        {
+            "country": "Switzerland",
+            "emissions": 4.3,
+            "lat": 46.818188,
+            "lon": 8.227512,
+            "region": "Europe"
+        },
+        {
+            "country": "Syria",
+            "emissions": 1.4,
+            "lat": 34.802075,
+            "lon": 38.996815,
+            "region": "Asia"
+        },
+        {
+            "country": "Taiwan",
+            "emissions": 10.8,
+            "lat": 23.69781,
+            "lon": 120.960515,
+            "region": "Asia"
+        },
+        {
+            "country": "Tajikistan",
+            "emissions": 0.5,
+            "lat": 38.861034,
+            "lon": 71.276093,
+            "region": "Asia"
+        },
+        {
+            "country": "Tanzania",
+            "emissions": 0.2,
+            "lat": -6.369028,
+            "lon": 34.888822,
+            "region": "Africa"
+        },
+        {
+            "country": "Thailand",
+            "emissions": 4.1,
+            "lat": 15.870032,
+            "lon": 100.992541,
+            "region": "Asia"
+        },
+        {
+            "country": "Timor-Leste",
+            "emissions": 0.3,
+            "lat": -8.874217,
+            "lon": 125.727539,
+            "region": "Asia"
+        },
+        {
+            "country": "Togo",
+            "emissions": 0.2,
+            "lat": 8.619543,
+            "lon": 0.824782,
+            "region": "Africa"
+        },
+        {
+            "country": "Tonga",
+            "emissions": 1.2,
+            "lat": -21.178986,
+            "lon": -175.198242,
+            "region": "Oceania"
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "emissions": 25.3,
+            "lat": 10.691803,
+            "lon": -61.222503,
+            "region": "Americas"
+        },
+        {
+            "country": "Tunisia",
+            "emissions": 2.3,
+            "lat": 33.886917,
+            "lon": 9.537499,
+            "region": "Africa"
+        },
+        {
+            "country": "Turkey",
+            "emissions": 4.7,
+            "lat": 38.963745,
+            "lon": 35.243322,
+            "region": "Asia"
+        },
+        {
+            "country": "Turkmenistan",
+            "emissions": 11.2,
+            "lat": 38.969719,
+            "lon": 59.556278,
+            "region": "Asia"
+        },
+        {
+            "country": "Tuvalu",
+            "emissions": 0.5,
+            "lat": -7.109535,
+            "lon": 177.64933,
+            "region": "Oceania"
+        },
+        {
+            "country": "Uganda",
+            "emissions": 0.1,
+            "lat": 1.373333,
+            "lon": 32.290275,
+            "region": "Africa"
+        },
+        {
+            "country": "Ukraine",
+            "emissions": 4.8,
+            "lat": 48.379433,
+            "lon": 31.165581,
+            "region": "Europe"
+        },
+        {
+            "country": "United Arab Emirates",
+            "emissions": 20.7,
+            "lat": 23.424076,
+            "lon": 53.847818,
+            "region": "Asia"
+        },
+        {
+            "country": "United Kingdom",
+            "emissions": 5.6,
+            "lat": 55.378051,
+            "lon": -3.435973,
+            "region": "Europe"
+        },
+        {
+            "country": "United States",
+            "emissions": 14.2,
+            "lat": 37.09024,
+            "lon": -95.712891,
+            "region": "Americas"
+        },
+        {
+            "country": "Uruguay",
+            "emissions": 2.1,
+            "lat": -32.522779,
+            "lon": -55.765835,
+            "region": "Americas"
+        },
+        {
+            "country": "Uzbekistan",
+            "emissions": 3.5,
+            "lat": 41.377491,
+            "lon": 64.585262,
+            "region": "Asia"
+        },
+        {
+            "country": "Vanuatu",
+            "emissions": 0.6,
+            "lat": -15.376706,
+            "lon": 166.959158,
+            "region": "Oceania"
+        },
+        {
+            "country": "Vatican City",
+            "emissions": 0.0,
+            "lat": 41.902916,
+            "lon": 12.453389,
+            "region": "Europe"
+        },
+        {
+            "country": "Venezuela",
+            "emissions": 4.8,
+            "lat": 6.42375,
+            "lon": -66.58973,
+            "region": "Americas"
+        },
+        {
+            "country": "Vietnam",
+            "emissions": 2.3,
+            "lat": 14.058324,
+            "lon": 108.277199,
+            "region": "Asia"
+        },
+        {
+            "country": "Yemen",
+            "emissions": 0.4,
+            "lat": 15.552727,
+            "lon": 48.516388,
+            "region": "Asia"
+        },
+        {
+            "country": "Zambia",
+            "emissions": 0.3,
+            "lat": -13.133897,
+            "lon": 27.849332,
+            "region": "Africa"
+        },
+        {
+            "country": "Zimbabwe",
+            "emissions": 0.7,
+            "lat": -19.015438,
+            "lon": 29.154857,
+            "region": "Africa"
+        }
+    ]
+}
